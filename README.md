@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OPUSntm
 - 👀 I’m interested in tech generaly, but i don't have qualification
-- 🌱 I’m currently at engineering school and i'm currently learning C
-- 📫 How to reach me on discord opus_ntm
+- 🌱 I’m currently at engineering school and i'm learning C
+- 📫 you can reach me on discord opus_ntm
 
 <!---
 OPUSntm/OPUSntm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
